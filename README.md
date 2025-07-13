@@ -63,3 +63,4 @@ To avoid unnecessary AWS charges, the following resources were terminated after 
 - Task Definitions  
 - Load Balancer  
 - Auto Scaling Group  
+https://hub.docker.com/r/mhasheem/python-django
